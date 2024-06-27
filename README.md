@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ri-ng.
-
+This name was taken from my favourite horro novel "The Ring".
 <!--
 **Ri-ngkk/Ri-ngkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
